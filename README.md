@@ -82,7 +82,7 @@ Y. Alkendi, L. Seneviratne and Y. Zweiri, "[State of the Art in Vision-Based Loc
 # LOCALIZATION TECHNIQUES IN LOW-VISIBILITY ENVIRONMENTS <a name="part10"/>
 
 # The MAIN COMPONENTS OF THE VISUAL-LOCALIZATION <a name="part11"/>
-
+![MAINCOMPONENTSOFVISUAL-LOCALIZATION](https://user-images.githubusercontent.com/87903019/126872863-4c44cdad-1e6f-49f2-8571-11292f67671a.png)
 
 
 
