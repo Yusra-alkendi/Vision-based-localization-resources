@@ -7,7 +7,7 @@
 * [GENERAL OVERVIEW OF LOCALIZATION TECHNIQUES](#GeneralOverviewofLocalizationTechniques)  
   * [Related Survey Papers on Visual Odometry](#RelatedSurveyPapersonVisualOdometry)  
   * [Related Survey Papers on Visual Inertial Odometry](#RelatedSurveyPapersonVisualInertialOdometry)  
-* [VISUAL ODOMETRY VO](#Visual-Odometry)  
+* [VISUAL ODOMETRY VO](#Visual-Odometry)
   * [MOTION ESTIMATION](#part1)
     * [3D TO 3D ALGORITHM](#part2)
     * [3D TO 2D ALGORITHM](#part3)
@@ -50,32 +50,32 @@ Y. Alkendi, L. Seneviratne and Y. Zweiri, "[State of the Art in Vision-Based Loc
 
 
 # 1. VISUAL ODOMETRY VO <a name="Visual-Odometry"/>
-## A. MOTION ESTIMATION <a name="#part1"/>
-  ### A.1 3D TO 3D ALGORITHM <a name="#part2"/>
-  ### A.2 3D TO 2D ALGORITHM <a name="#part3"/>
-  ### A.3 2D TO 2D ALGORITHM <a name="#part4"/>
- ## B. KEY DESIGN CHOICES<a name="#part5"/>
-  ### B.1 CONVENTIONAL – APPEARANCE-BASED VO<a name="#part6"/>
-   #### B.1.1. Regional-based method<a name="#part7"/>
-   #### B.1.2. Optical Flow-based method<a name="#part8"/>
-  ### B.2 CONVENTIONAL – FEATURE-BASED VO<a name="#part9"/>
-  ### B.3 CONVENTIONAL – HYBRID-BASED VO<a name="#part10"/>
-  ### B.4 NON-CONVENTIONAL – MACHINE LEARNING-BASED VO<a name="#part11"/>
- ## C. RECENT VO-BASED STUDIES<a name="#partvo"/>
+## A. MOTION ESTIMATION <a name="part1"/>
+  ### A.1 3D TO 3D ALGORITHM <a name="part2"/>
+  ### A.2 3D TO 2D ALGORITHM <a name="part3"/>
+  ### A.3 2D TO 2D ALGORITHM <a name="part4"/>
+ ## B. KEY DESIGN CHOICES<a name="part5"/>
+  ### B.1 CONVENTIONAL – APPEARANCE-BASED VO<a name="part6"/>
+   #### B.1.1. Regional-based method<a name="part7"/>
+   #### B.1.2. Optical Flow-based method<a name="part8"/>
+  ### B.2 CONVENTIONAL – FEATURE-BASED VO<a name="part9"/>
+  ### B.3 CONVENTIONAL – HYBRID-BASED VO<a name="part10"/>
+  ### B.4 NON-CONVENTIONAL – MACHINE LEARNING-BASED VO<a name="part11"/>
+ ## C. RECENT VO-BASED STUDIES<a name="partvo"/>
  
 
 # 2. VISUAL INERTIAL ODOMETRY VIO <a name="Visual-Inertial-Odometry"/>
 
-## A. DEGREE OF DATA FUSION <a name="#partA"/>
-### A.1 LOOSELY-COUPLED VIO <a name="#partA1"/>
-### A.2 SEMI-TIGHTLY COUPLED VIO <a name="#partA2"/>
-### A.3 TIGHTLY-COUPLED VIO <a name="#partA3"/>
-## B. TYPE OF DATA FUSION <a name="#partA4"/>
-### B.1 FILTERING-BASED VIO <a name="#partA5"/>
-#### B.1.1 EXTENDED AND UNSCENTED KALMAN FILTERS <a name="#partA6"/>
-#### B.1.2 MULTI-STATE CONSTRAINT KALMAN FILTER <a name="#partA7"/>
-### B.2 OPTIMIZATION-BASED VIO <a name="#part8"/>
-## C. RECENT VOI-BASED STUDIES <a name="#partvio"/>
+## A. DEGREE OF DATA FUSION <a name="partA"/>
+### A.1 LOOSELY-COUPLED VIO <a name="partA1"/>
+### A.2 SEMI-TIGHTLY COUPLED VIO <a name="partA2"/>
+### A.3 TIGHTLY-COUPLED VIO <a name="partA3"/>
+## B. TYPE OF DATA FUSION <a name="partA4"/>
+### B.1 FILTERING-BASED VIO <a name="partA5"/>
+#### B.1.1 EXTENDED AND UNSCENTED KALMAN FILTERS <a name="partA6"/>
+#### B.1.2 MULTI-STATE CONSTRAINT KALMAN FILTER <a name="partA7"/>
+### B.2 OPTIMIZATION-BASED VIO <a name="part8"/>
+## C. RECENT VOI-BASED STUDIES <a name="partvio"/>
 
 
 
