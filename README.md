@@ -43,9 +43,16 @@
 Y. Alkendi, L. Seneviratne and Y. Zweiri, "[State of the Art in Vision-Based Localization Techniques for Autonomous Navigation Systems](https://ieeexplore.ieee.org/abstract/document/9438708)," in IEEE Access, vol. 9, pp. 76847-76874, 2021, doi: 10.1109/ACCESS.2021.3082778.   
 
 # GENERAL OVERVIEW OF LOCALIZATION TECHNIQUES <a name="GeneralOverviewofLocalizationTechniques"/>
-
+- S. A. S. Mohamed, M.-H. Haghbayan, T. Westerlund, J. Heikkonen, H. Tenhunen, and J. Plosila, "[A survey on odometry for autonomous navigation systems](https://ieeexplore.ieee.org/document/8764393)", IEEE Access, vol. 7, pp. 97466–97486, 2019.
 ## Related Survey Papers on Visual Odometry <a name="RelatedSurveyPapersonVisualOdometry"/>
+-  D. Scaramuzza and F. Fraundorfer, "[Visual odometry Part I: The first 30 years and fundamentals](https://ieeexplore.ieee.org/abstract/document/6096039)," IEEE Robot. Autom. Mag., vol. 18, no. 4, pp. 80–92, Dec. 2011.
+-  F. Fraundorfer and D. Scaramuzza,"[Visual odometry: PartII : Matching, robustness, optimization, and applications](https://ieeexplore.ieee.org/document/6153423)," IEEE Robot. Autom. Mag., vol. 19, no. 2, pp. 78–90, Jun. 2012.
+-  M.O.A.Aqel,M.H.Marhaban,M.I.Saripan,andN.B.Ismail,"[Review of visual odometry: Types, approaches, challenges, and applications](https://springerplus.springeropen.com/articles/10.1186/s40064-016-3573-7)," SpringerPlus, vol. 5, no. 1, pp. 1–26, Dec. 2016.
+-  S.Poddar,R.Kottath,andV.Karar,"[Motion estimation made easy: Evolution and trends in visual odometry](https://link.springer.com/chapter/10.1007/978-3-030-03000-1_13)," in Recent Advances in Computer Vision. Cham, Switzerland: Springer, 2019, pp. 305–331.
 ## Related Survey Papers on Visual Inertial Odometry <a name="RelatedSurveyPapersonVisualInertialOdometry"/>
+- J.Gui,D.Gu,S.Wang,andH.Hu, "[A review of visual inertial odometry from filtering and optimisation perspectives](https://www.tandfonline.com/doi/abs/10.1080/01691864.2015.1057616)," Adv. Robot., vol. 29, no. 20, pp. 1289–1301, Oct. 2015.
+- M.Shan,Y.Bi,H.Qin,J.Li,Z.Gao,F.Lin,andB.M.Chen,"[A brief survey of visual odometry for micro aerial vehicles](https://ieeexplore.ieee.org/document/7793198)," in Proc. 42nd Annu. Conf. IEEE Ind. Electron. Soc. (IECON), Oct. 2016, pp. 6049–6054.
+- G. Huang, "[Visual-inertial navigation: A concise review](https://arxiv.org/abs/1906.02650)," in Proc. Int. Conf. Robot. Automat. (ICRA), May 2019, pp. 9572–9582.
 
 
 
