@@ -42,6 +42,12 @@
 # SURVEY PAPER <a name="Survey_Paper"/>
 Y. Alkendi, L. Seneviratne and Y. Zweiri, "[State of the Art in Vision-Based Localization Techniques for Autonomous Navigation Systems](https://ieeexplore.ieee.org/abstract/document/9438708)," in IEEE Access, vol. 9, pp. 76847-76874, 2021, doi: 10.1109/ACCESS.2021.3082778.   
 
+If you find this paper useful in your research, please consider citing us:
+```
+@ARTICLE{9438708,  author={Alkendi, Yusra and Seneviratne, Lakmal and Zweiri, Yahya},  journal={IEEE Access}, title={State of the Art in Vision-Based Localization Techniques for Autonomous Navigation Systems}, year={2021},  volume={9},  number={},  pages={76847-76874},  doi={10.1109/ACCESS.2021.3082778}}) 
+```
+
+
 # GENERAL OVERVIEW OF LOCALIZATION TECHNIQUES <a name="GeneralOverviewofLocalizationTechniques"/>
 - S. A. S. Mohamed, M.-H. Haghbayan, T. Westerlund, J. Heikkonen, H. Tenhunen, and J. Plosila, "[A survey on odometry for autonomous navigation systems](https://ieeexplore.ieee.org/document/8764393)", IEEE Access, vol. 7, pp. 97466–97486, 2019.
 ## Related Survey Papers on Visual Odometry <a name="RelatedSurveyPapersonVisualOdometry"/>
