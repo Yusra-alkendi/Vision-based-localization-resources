@@ -1,4 +1,5 @@
-# Vision-based-Localization-Resources - Visual Odometry - Visual Inertial Odometry 
+# Vision-based-Localization-Resources - Visual Odometry - Visual Inertial Odometry - Localization Techniques in LOW-visibility Environments 
+
 **Review paper Titled with:**
 "State of the Art in Vision-Based Localization Techniques for Autonomous Navigation Systems"
 
