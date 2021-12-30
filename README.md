@@ -1,5 +1,10 @@
 # Vision-based-Localization-Resources
+**Review paper Titled with:**
+"State of the Art in Vision-Based Localization Techniques for Autonomous Navigation Systems"
 
+
+**Review paper Abstract:**
+Vision-based localization systems, namely visual odometry (VO) and visual inertial odometry (VIO), have attracted great attention recently. They are regarded as critical modules for building fully autonomous systems. The simplicity of visual and inertial state estimators, along with their applicability in resource-constrained platforms motivated robotic community to research and develop novel approaches that maximize their robustness and reliability. In this paper, we surveyed state-of-the-art VO and VIO approaches. In addition, studies related to localization in visually degraded environments are also reviewed. The reviewed VO techniques and related studies have been analyzed in terms of key design aspects including appearance, feature, and learning based approaches. On the other hand, research studies related to VIO have been categorized based on the degree and type of fusion process into loosely-coupled, semi-tightly coupled, or tightly-coupled approaches and filtering or optimization-based paradigms. This paper provides an overview of the main components of visual localization, key design aspects highlighting the pros and cons of each approach, and compares the latest research works in this field. Finally, a detailed discussion of the challenges associated with the reviewed approaches and future research considerations are formulated.
 
 
 ## Table of Contents  
